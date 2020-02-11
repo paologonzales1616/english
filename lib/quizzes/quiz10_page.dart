@@ -437,7 +437,7 @@ class _Quiz10PageState extends State<Quiz10Page> {
                         IconButton(
                           iconSize: 30,
                           icon: Icon(Icons.play_circle_outline),
-                          onPressed: () => _open("lesson_8_4.mp3"),
+                          onPressed: () => _open("lesson_10_4.mp3"),
                         ),
                         Expanded(
                           child: RichText(
@@ -560,14 +560,14 @@ class _Quiz10PageState extends State<Quiz10Page> {
                         IconButton(
                           iconSize: 30,
                           icon: Icon(Icons.play_circle_outline),
-                          onPressed: () => _open("lesson_8_5.mp3"),
+                          onPressed: () => _open("lesson_10_5.mp3"),
                         ),
                         Expanded(
                           child: RichText(
                             text: TextSpan(
                               children: <TextSpan>[
                                 TextSpan(
-                                  text: "4. If you do not want to ",
+                                  text: "5. If you do not want to ",
                                   style: TextStyle(
                                     color: Colors.black,
                                   ),
